@@ -259,6 +259,15 @@ input, select, textarea {
 .myOwnClass-a {
 	border-bottom: thick double;
 }
+
+.profilePic {
+	display: block;
+	max-inline-size: 100%;
+	width: 75px;
+	height: 400px;
+	object-fit: contain;
+	
+}
 /*********************************/
 
 /* Container */
