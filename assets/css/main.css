@@ -256,6 +256,10 @@ input, select, textarea {
 
 /*********************************/
 /* MY OWN STYLES */
+.regBold {
+	font-weight: 900;
+}
+
 .myOwnClass-a {
 	border-bottom: thick double;
 }
